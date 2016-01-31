@@ -1,0 +1,23 @@
+{
+  "name": "shopcart",
+  "version": "1.0.0",
+  "description": "Shopping Cart Demo",
+  "main": "server.js",
+  "dependencies": {
+    "npm": "^2.14.4",
+    "require": "^2.4.20",
+    "request": "^2.64.0",
+	"body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Node.js",
+    "mongoDb"
+  ],
+  "author": "Jaka Sardjono",
+  "license": "ISC"
+}

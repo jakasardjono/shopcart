@@ -1,0 +1,4 @@
+node_modules/.bin/npm
+*.cmd
+node_modules/.bin/require
+*.cmd
